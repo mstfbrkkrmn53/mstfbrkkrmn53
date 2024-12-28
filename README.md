@@ -3,19 +3,23 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 
 🚀 **Areas of Interest:**  
 - 🌐 Web Development  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="40"/> **ASP.NET**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40"/> **React**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="40"/> **Vue.js**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40"/> **Next.js**  
+
 - 📱 Mobile App Development  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40"/> **Flutter**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" alt="Swift" width="40"/> **Swift**  
+
 - 🧠 Artificial Intelligence and Machine Learning  
+
 - 🔒 Cybersecurity  
+
 - 🗄️ Databases  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server" width="40"/> **Microsoft SQL Server**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="40"/> **MySQL**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40"/> **MongoDB**
 
 💪 **Strengths:**  
 - Adaptable and quick learner, always ready to embrace new challenges  
