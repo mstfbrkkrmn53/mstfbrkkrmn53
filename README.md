@@ -17,7 +17,7 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 - 🔒 Cybersecurity  
 
 - 🗄️ Databases  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_SQL_Server_Logo.svg" alt="Microsoft SQL Server" width="40"/> **Microsoft SQL Server**  
+  <img src="https://miro.medium.com/v2/resize:fit:500/1*oA8p_Qdyjq4yCOlZE0_A0g.png" alt="Microsoft SQL Server" width="40"/> **Microsoft SQL Server**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="MySQL" width="40"/> **MySQL**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40"/> **MongoDB**
 
