@@ -33,19 +33,19 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 
 ## 🛠️ Development Tools & Platforms
 
-- <img src="assets/visualstudio-plain.svg" width="20"/> Visual Studio  
-- <img src="assets/vscode-original.svg" width="20"/> Visual Studio Code  
-- <img src="assets/Sql_data_base_with_logo.png" width="20"/> Microsoft SQL Server  
-- <img src="assets/pycharm-original.svg" width="20"/> PyCharm (Python IDE)  
-- <img src="assets/Jira.svg" width="20"/> Jira  
-- <img src="assets/trello-logo-icon.svg" width="20"/> Trello  
-- <img src="assets/azure-original.svg" width="20"/> Azure DevOps  
-- <img src="assets/msoffice.png" width="20"/> Microsoft Office  
-- <img src="assets/notepad-seeklogo.svg" width="20"/> Notepad++  
-- <img src="assets/Matlab_Logo.png" width="20"/> MATLAB / Simulink  
-- <img src="assets/eclipse-original.svg" width="20"/> Eclipse IDE for Java  
-- <img src="assets/androidstudio-original.svg" width="20"/> Android Studio  
-- <img src="assets/Xcode.svg" width="20"/> Xcode
+- <img src="assests/visualstudio-plain.svg" width="20"/> Visual Studio  
+- <img src="assests/vscode-original.svg" width="20"/> Visual Studio Code  
+- <img src="assests/microsoft-sql-server-logo-svgrepo-com.svg" width="20"/> Microsoft SQL Server  
+- <img src="assests/pycharm-original.svg" width="20"/> PyCharm (Python IDE)  
+- <img src="assests/Jira.svg" width="20"/> Jira  
+- <img src="assests/trello-logo-icon.svg" width="20"/> Trello  
+- <img src="assests/azure-original.svg" width="20"/> Azure DevOps  
+- <img src="assests/msoffice.png" width="20"/> Microsoft Office  
+- <img src="assests/notepad-seeklogo.svg" width="20"/> Notepad++  
+- <img src="assests/Matlab_Logo.png" width="20"/> MATLAB / Simulink  
+- <img src="assests/eclipse-original.svg" width="20"/> Eclipse IDE for Java  
+- <img src="assests/androidstudio-original.svg" width="20"/> Android Studio  
+- <img src="assests/Xcode.svg" width="20"/> Xcode
 
 ### 🧠 Artificial Intelligence & Machine Learning
 - Basic AI and data processing applications with Python  
