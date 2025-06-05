@@ -6,10 +6,13 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 ---
 
 ## 🚀 Areas of Interest & Technologies
+---
 
 ### 🌐 Web Development
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="20"/> ASP.NET / .NET Core  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="20"/> C#  
+- <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20"/> Java  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> Python  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20"/> React / React Native  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="20"/> Vue.js  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="20"/> Next.js  
@@ -27,6 +30,22 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="40"/> MySQL  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="40"/> MongoDB  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="20"/> SQL  
+
+## 🛠️ Development Tools & Platforms
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" width="20"/> Visual Studio  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20"/> Visual Studio Code  
+- <img src="https://miro.medium.com/v2/resize:fit:500/1*oA8p_Qdyjq4yCOlZE0_A0g.png" width="20"/> Microsoft SQL Server  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> PyCharm (Python IDE)  
+- <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Jira_Logo.png" width="20"/> Jira  
+- <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello-logo.png" width="20"/> Trello  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Azure_DevOps_Logo.svg" width="20"/> Azure DevOps  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Logo_%282019–present%29.svg" width="20"/> Microsoft Office  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad%2B%2B_Logo.png" width="20"/> Notepad++  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="20"/> MATLAB / Simulink  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Eclipse_Logo.svg" width="20"/> Eclipse IDE for Java
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="20"/> Android Studio  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Xcode_14_icon.png" width="20"/> Xcode
 
 ### 🧠 Artificial Intelligence & Machine Learning
 - Basic AI and data processing applications with Python  
@@ -61,11 +80,21 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 
 ---
 
+
 ## 📂 Featured Projects
-- [Rasa Chatbot Final Project](https://github.com/GE400-Final-Project/rasa)  
-- [PHP News Site V1](https://github.com/mstfbrkbrcn53/PHP-NEWS-SITE)  
-- [PHP News Site V2](https://github.com/mstfbrkkrmn53/Haber-Sitesi)  
-- [Medium Blog Samples](https://github.com/mstfbrkbrcn53/medium-blog-samples)  
+
+- 🚀 [**Rasa Chatbot Final Project**](https://github.com/GE400-Final-Project/rasa)  
+  A smart chatbot for an e-commerce platform built with Python and Rasa Framework. Integrated with an ASP.NET MVC frontend and MongoDB backend.
+
+- 📰 [**PHP News Site #1 (v1)**](https://github.com/mstfbrkbrcn53/PHP-NEWS-SITE)  
+  A simple dynamic news portal developed in PHP, designed to deliver categorized news content.
+
+- 🧭 [**PHP News Site #2 (v2)**](https://github.com/mstfbrkkrmn53/Haber-Sitesi)  
+  An enhanced version of the previous news portal. Offers improved structure, features, and admin management tools built with PHP.
+
+- 📘 [**Medium Blog Samples**](https://github.com/mstfbrkbrcn53/medium-blog-samples)  
+  A collection of sample projects and demo applications featured in my Medium blog posts.
+  
 
 ---
 
