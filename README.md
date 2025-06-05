@@ -1,10 +1,16 @@
+👨‍💻 Developer | Problem Solver | Lifelong Learner | Project Manager
+Hi! I'm Mustafa Burak Karaman, a passionate software developer dedicated to learning and creating innovative solutions in the world of technology.
+
+🚀 Areas of Interest & Technologies:
+
+🌐 Web Development
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET" width="40"/> ASP.NET MVC / .NET Core
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40"/> C#
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40"/> React / React Native
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="40"/> Vue.js
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40"/> Next.js
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="40"/> PHP
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40"/> HTML / CSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="40"/> HTML
 
 📱 Mobile App Development
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="40"/> Flutter
@@ -60,9 +66,9 @@ Following the latest advancements in AI and software engineering
 
 💬 Rasa Chatbot Final Project – Python ve Rasa kullanılarak geliştirilen AI destekli e-ticaret chatbot sistemi
 
-📰 PHP News Site V1 – PHP ile geliştirilmiş haber sitesi
+📰 PHP News Site #1 – PHP ile geliştirilmiş haber sitesi
 
-📰 PHP News Site V2 – Alternatif haber portalı geliştirmesi
+📰 PHP News Site #2 – Alternatif haber portalı geliştirmesi
 
 📚 Medium Blog Samples – Medium’da yayınlanan çeşitli yazılım örnekleri
 
