@@ -33,19 +33,19 @@ Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to 
 
 ## 🛠️ Development Tools & Platforms
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" width="20"/> Visual Studio  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20"/> Visual Studio Code  
-- <img src="https://miro.medium.com/v2/resize:fit:500/1*oA8p_Qdyjq4yCOlZE0_A0g.png" width="20"/> Microsoft SQL Server  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> PyCharm (Python IDE)  
-- <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Jira_Logo.png" width="20"/> Jira  
-- <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Trello-logo.png" width="20"/> Trello  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Azure_DevOps_Logo.svg" width="20"/> Azure DevOps  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Logo_%282019–present%29.svg" width="20"/> Microsoft Office  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Notepad%2B%2B_Logo.png" width="20"/> Notepad++  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="20"/> MATLAB / Simulink  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Eclipse_Logo.svg" width="20"/> Eclipse IDE for Java
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="20"/> Android Studio  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Xcode_14_icon.png" width="20"/> Xcode
+- <img src="assets/visualstudio-plain.svg" width="20"/> Visual Studio  
+- <img src="assets/vscode-original.svg" width="20"/> Visual Studio Code  
+- <img src="assets/Sql_data_base_with_logo.png" width="20"/> Microsoft SQL Server  
+- <img src="assets/pycharm-original.svg" width="20"/> PyCharm (Python IDE)  
+- <img src="assets/Jira.svg" width="20"/> Jira  
+- <img src="assets/trello-logo-icon.svg" width="20"/> Trello  
+- <img src="assets/azure-original.svg" width="20"/> Azure DevOps  
+- <img src="assets/msoffice.png" width="20"/> Microsoft Office  
+- <img src="assets/notepad-seeklogo.svg" width="20"/> Notepad++  
+- <img src="assets/Matlab_Logo.png" width="20"/> MATLAB / Simulink  
+- <img src="assets/eclipse-original.svg" width="20"/> Eclipse IDE for Java  
+- <img src="assets/androidstudio-original.svg" width="20"/> Android Studio  
+- <img src="assets/Xcode.svg" width="20"/> Xcode
 
 ### 🧠 Artificial Intelligence & Machine Learning
 - Basic AI and data processing applications with Python  
