@@ -45,6 +45,7 @@ When I'm not coding, I enjoy:
 - [Rasa Chatbot Final Project](https://github.com/GE400-Final-Project/rasa) - A chatbot built with Rasa for intelligent conversation systems.  
 - [PHP News Site](https://github.com/mstfbrkbrcn53/PHP-NEWS-SITE) - A news portal developed using PHP.  
 - [Medium Blog Samples](https://github.com/mstfbrkbrcn53/medium-blog-samples) - A collection of sample projects featured on Medium.
+- [PHP News Site](https://github.com/mstfbrkkrmn53/Haber-Sitesi) - A collection of sample projects featured on Medium.
 
 📫 **Contact:**  
 - Email: [mustafaburakkrmn@hotmail.com](mailto:mustafaburakkrmn@hotmail.com)  
