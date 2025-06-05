@@ -1,4 +1,4 @@
-👨‍💻 **Developer | Problem Solver | Lifelong Learner**  
+👨‍💻 **Developer | Problem Solver | Lifelong Learner | Project Manager**  
 Hi! I'm **Mustafa Burak Karaman**, a passionate software developer dedicated to learning and creating innovative solutions in the world of technology.
 
 🚀 **Areas of Interest:**  
